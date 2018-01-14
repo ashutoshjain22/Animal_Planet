@@ -1,0 +1,4 @@
+C:\Users\ash\Downloads\AnimalPlanet\Core\bin\Debug\Core.dll
+C:\Users\ash\Downloads\AnimalPlanet\Core\bin\Debug\Core.pdb
+C:\Users\ash\Downloads\AnimalPlanet\Core\obj\Debug\Core.dll
+C:\Users\ash\Downloads\AnimalPlanet\Core\obj\Debug\Core.pdb

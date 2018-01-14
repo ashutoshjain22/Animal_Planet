@@ -1,0 +1,15 @@
+C:\Users\ash\Downloads\AnImalPlanet\Services\bin\Debug\Services.dll.config
+C:\Users\ash\Downloads\AnImalPlanet\Services\bin\Debug\Services.dll
+C:\Users\ash\Downloads\AnImalPlanet\Services\bin\Debug\Services.pdb
+C:\Users\ash\Downloads\AnImalPlanet\Services\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ash\Downloads\AnImalPlanet\Services\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ash\Downloads\AnImalPlanet\Services\obj\Debug\Services.dll
+C:\Users\ash\Downloads\AnImalPlanet\Services\obj\Debug\Services.pdb
+F:\Data\AnimalPlanet\Animal-Planet\AnimalPlanet\Services\bin\Debug\Services.dll.config
+F:\Data\AnimalPlanet\Animal-Planet\AnimalPlanet\Services\bin\Debug\Services.dll
+F:\Data\AnimalPlanet\Animal-Planet\AnimalPlanet\Services\bin\Debug\Services.pdb
+F:\Data\AnimalPlanet\Animal-Planet\AnimalPlanet\Services\bin\Debug\System.Net.Http.Formatting.dll
+F:\Data\AnimalPlanet\Animal-Planet\AnimalPlanet\Services\bin\Debug\System.Net.Http.Formatting.xml
+F:\Data\AnimalPlanet\Animal-Planet\AnimalPlanet\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+F:\Data\AnimalPlanet\Animal-Planet\AnimalPlanet\Services\obj\Debug\Services.dll
+F:\Data\AnimalPlanet\Animal-Planet\AnimalPlanet\Services\obj\Debug\Services.pdb
